@@ -6,6 +6,9 @@ object Simple {
   def main(args: Array[String]) {
     println("Hello Scala & Spark")
     println("Hi Himanshu Singh Teotia")
+
+    println("2 check")
+
     myMethod()
   }
 
