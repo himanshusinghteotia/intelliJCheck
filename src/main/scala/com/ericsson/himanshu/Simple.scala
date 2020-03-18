@@ -9,6 +9,8 @@ object Simple {
 
     println("2 check")
 
+    println("branch check")
+
     myMethod()
   }
 
