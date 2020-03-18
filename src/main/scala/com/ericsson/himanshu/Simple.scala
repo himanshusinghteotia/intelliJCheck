@@ -11,6 +11,9 @@ object Simple {
 
     println("branch check")
 
+    println("Some extra lines in my code")
+    println("more code")
+
     myMethod()
   }
 
