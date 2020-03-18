@@ -5,6 +5,7 @@ import org.apache.spark.{SparkConf, SparkContext}
 object Simple {
   def main(args: Array[String]) {
     println("Hello Scala & Spark")
+    println("Hi Himanshu Singh Teotia")
     myMethod()
   }
 
